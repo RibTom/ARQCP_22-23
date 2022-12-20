@@ -1,1 +1,0 @@
-void capitalize (char *str);
